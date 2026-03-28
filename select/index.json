@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Present Day (Live ver. Tokoyami Towa 2nd Live “SHINier”@有明アリーナ)",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-03-28T05:11:00.365454Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Present Day (Live ver. Tokoyami Towa 2nd Live “SHINier”@有明アリーナ)",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_Present_Day_(Live_ver._Tokoyami_Towa_2nd_Live_“SHINier”@有明アリーナ)_常闇トワ.txt"
+    }
+  ]
+}
